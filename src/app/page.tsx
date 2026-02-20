@@ -45,7 +45,7 @@ export default function Home() {
         <div className="btn-group">
           <button 
             className="btn btn-play" 
-            onClick={() => handlePlay(movies[0].videoUrl)}
+            onClick={() => handlePlay('/data/tiny%20telly%20intro.mp4')}
           >
             <Play fill="black" size={24} /> Putar
           </button>
