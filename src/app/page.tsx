@@ -5,7 +5,7 @@ import { Play, Info, Search, Bell, User, X } from 'lucide-react';
 import './globals.css';
 
 const movies = [
-  { id: 1, title: 'Adventures of MrLoLCat', image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=2043&auto=format&fit=crop', videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4' },
+  { id: 1, title: 'Adventures of MrLoLCat', image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=2043&auto=format&fit=crop', videoUrl: 'https://www.xnxx.com/video-18xon3f7/lose_your_balls_at_for_sweet_femdom' },
   { id: 2, title: 'Cat Trades', image: 'https://images.unsplash.com/photo-1573865526739-10659fec78a5?q=80&w=1915&auto=format&fit=crop', videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4' },
   { id: 3, title: 'Crypto Mew', image: 'https://images.unsplash.com/photo-1543852786-1cf6624b9987?q=80&w=1887&auto=format&fit=crop', videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4' },
   { id: 4, title: 'LoL Night', image: 'https://images.unsplash.com/photo-1519052537078-e6302a4968d4?q=80&w=2070&auto=format&fit=crop', videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4' },
